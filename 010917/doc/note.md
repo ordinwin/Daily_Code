@@ -44,7 +44,7 @@ Unix和linux很多库函数都是支持POSIX的，但windows支持的比较差�
 
 
 
- ![process](imge\process.png)
+ ![process](imge/process.png)
 
 
 
@@ -66,7 +66,7 @@ gcc -o a11.c -E a1.c
 
 预编译功能之二：将代码中的注释删除
 
-
+
 
 
 
@@ -92,7 +92,7 @@ gcc -o a a.o
 
 用户模式、内核模式
 
- ![user_kernel](imge\user_kernel.png)
+ ![user_kernel](imge/user_kernel.png)
 
 
 
@@ -120,15 +120,15 @@ CPU对外是通过总线来和外部设备交互的，总线的宽度是8位，�
 
 64位大于这个限制了。
 
-
-
- ![cpu](imge\cpu.png)
 
 
+ ![cpu](imge/cpu.png)
 
 
 
- ![cpu_cache](imge\cpu_cache.png)
+
+
+ ![cpu_cache](imge/cpu_cache.png)
 
 
 
@@ -232,7 +232,7 @@ F1 查看帮助
 
 
 
-![printf_format](imge\printf_format.png)
+![printf_format](imge/printf_format.png)
 
 
 
@@ -240,7 +240,7 @@ F1 查看帮助
 
 
 
-![printf_more](imge\printf_more.png)
+![printf_more](imge/printf_more.png)
 
 
 
